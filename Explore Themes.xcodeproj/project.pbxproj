@@ -118,10 +118,10 @@
 				2CF5B45A2A34EA190061DBF4 /* MainView.swift */,
 				2CF5B47D2A3617360061DBF4 /* ProfileView.swift */,
 				2CF5B47F2A3617560061DBF4 /* ToDoListView.swift */,
+				2CF5B4972A361B630061DBF4 /* ToDoListItemView.swift */,
 				2CF5B4812A36176F0061DBF4 /* NewItemView.swift */,
 				2CF5B4832A3617840061DBF4 /* LoginView.swift */,
 				2CF5B4852A3617970061DBF4 /* RegisterView.swift */,
-				2CF5B4972A361B630061DBF4 /* ToDoListItemView.swift */,
 				2CF5B49B2A36200E0061DBF4 /* HeaderView.swift */,
 				2CF5B49D2A36467F0061DBF4 /* TLButton.swift */,
 			);
@@ -133,10 +133,10 @@
 			children = (
 				2CF5B48B2A361AA60061DBF4 /* MainViewViewModel.swift */,
 				2CF5B48D2A361AD50061DBF4 /* ProfileViewViewModel.swift */,
-				2CF5B48F2A361AE80061DBF4 /* ToDoListViewViewModel.swift */,
 				2CF5B4912A361AF90061DBF4 /* NewItemViewViewModel.swift */,
 				2CF5B4932A361B0B0061DBF4 /* LoginViewViewModel.swift */,
 				2CF5B4952A361B210061DBF4 /* RegisterViewViewModel.swift */,
+				2CF5B48F2A361AE80061DBF4 /* ToDoListViewViewModel.swift */,
 				2CF5B4992A361B7A0061DBF4 /* ToDoListItemViewViewModel.swift */,
 			);
 			path = ViewModels;
